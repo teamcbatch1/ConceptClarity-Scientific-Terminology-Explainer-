@@ -1,0 +1,22 @@
+{
+  "Blockchain": "A distributed ledger technology that records transactions across multiple computers, ensuring transparency and security.",
+  "Cryptocurrency": "Digital currency that operates on blockchain technology without central authority, like Bitcoin and Ethereum.",
+  "Smart Contracts": "Self-executing contracts with terms written in code, automatically enforcing agreements on blockchain.",
+  "DeFi": "Decentralized Finance - financial services using blockchain without traditional intermediaries.",
+  "Stablecoin": "Cryptocurrency designed to maintain stable value by pegging to fiat currency or assets.",
+  "Tokenization": "Converting real-world assets into digital tokens on blockchain for trading and ownership.",
+  "Fintech": "Financial technology companies offering digital financial services and innovations.",
+  "Digital Banking": "Banking services delivered through digital platforms instead of physical branches.",
+  "API Integration": "Connecting different software systems to share data and functionality seamlessly.",
+  "Payment Gateway": "Technology enabling online payment processing between buyers and sellers.",
+  "KYC": "Know Your Customer - verification process to confirm customer identity and prevent fraud.",
+  "AML": "Anti-Money Laundering - procedures to detect and prevent illegal financial activities.",
+  "Risk Management": "Identifying, analyzing, and mitigating financial and operational risks.",
+  "Portfolio Management": "Managing investment collections to optimize returns and minimize risk.",
+  "Robo-Advisor": "Automated investment platform using algorithms to manage portfolios.",
+  "Cryptocurrency Wallet": "Digital storage for holding, sending, and receiving cryptocurrencies securely.",
+  "Peer-to-Peer Lending": "Direct lending between individuals without traditional financial institutions.",
+  "Mobile Banking": "Banking services accessed through mobile applications and smartphones.",
+  "Fintech Regulation": "Rules and guidelines governing financial technology companies and services.",
+  "Open Banking": "Financial data sharing through APIs, allowing third-party developers to build services."
+}

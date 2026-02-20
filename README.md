@@ -74,3 +74,10 @@ Create `.env` files in each directory from `.env.example`
 - Local AI Model + OpenAI Fallback
 - Responsive Design with Tailwind CSS
 - Clean Architecture
+
+## COntributors
+- Daggubati Venkata Supraja
+- Durgesh Shinde
+- Rajesh Jillapally
+- A. Mallika
+- Mumuksh
